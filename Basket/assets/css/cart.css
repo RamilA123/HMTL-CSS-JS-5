@@ -1,0 +1,62 @@
+sup{
+    font-size: 20px;
+    color: red;
+}
+
+.icon{
+    text-decoration: none;
+}
+
+.icon i{
+    color: red;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+
+input::-webkit-inner-spin-button,
+input::-webkit-outer-spin-button{
+    -webkit-appearance: none;
+}
+
+input{
+    border: 2px solid gray;
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+    border-radius: 4px;
+    outline: none;
+}
+
+button{
+    border: none;
+    background: none;
+}
+
+.btn1{
+    color: red;
+}
+
+.price{
+   display: inline-block;
+   position: relative;
+   right: 15px;
+   color: red;
+   font-weight: 550;
+}
+
+.fa-manat-sign{
+    margin-left: 5px;
+    color: red;
+}
+
+.fa-trash-can{
+    color: gray;
+    font-size: 20px;
+    margin-left: 20px;
+    cursor: pointer;
+}

@@ -1,0 +1,21 @@
+sup{
+    font-size: 20px;
+    color: red;
+}
+
+.icon{
+    text-decoration: none;
+}
+
+.icon i{
+    color: red;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.price{
+    margin-left: 35px;
+    font-size: 20px;
+    font-weight: 500;
+    color: red;
+}
